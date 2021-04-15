@@ -1,0 +1,21 @@
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.custom-header{
+  padding: 2rem 1rem;
+}
+
+.column{
+  margin: 2px;
+  padding: 5px;
+  border: 2px solid rgb(95, 160, 140);
+  width: 30%;
+  height:fit-content;
+  float: left;
+  text-align: center
+}
+
+.blue-background {
+  background-color: blue;
+}
